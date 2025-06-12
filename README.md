@@ -45,7 +45,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/social-links-profile-with-responsive-design-and-active-states-NeK6CEaSpF)
 - Live Site URL: [sociallinksprofile-euraye.vercel.app](https://sociallinksprofile-euraye.vercel.app/)
 
 ## My process
