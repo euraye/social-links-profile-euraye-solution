@@ -45,7 +45,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/social-links-profile-with-responsive-design-and-active-states-NeK6CEaSpF)
+- Solution URL: [Github repository ](https://github.com/euraye/blog-preview-card-Euraye-Solution/tree/blog-preview-card-Euraye)
 - Live Site URL: [sociallinksprofile-euraye.vercel.app](https://sociallinksprofile-euraye.vercel.app/)
 
 ## My process
@@ -72,8 +72,6 @@ In future projects, I want to continue improving my skills in responsive design 
 - [GitHub Copilot & GPT](https://github.com/features/copilot) - Used for getting explanations and code examples for concepts I was unsure about during development.
 
 ## Author
-
-- Website - [Social Links Profile](https://www.your-site.com)
 - Frontend Mentor - [@euraye](https://www.frontendmentor.io/profile/euraye)
 - Github - [@euraye](https://github.com/euraye)
 
